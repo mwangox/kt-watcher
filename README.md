@@ -1,4 +1,4 @@
-# go_file_watcher
+# Description
 
 Go file watcher is used to monitor config file (config.json) and reload the changes dynamically. 
 No need of application restart.
